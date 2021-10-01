@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "nesbot/carbon": "~1.32",
+        "nesbot/carbon": ">=1.32",
         "paquettg/php-html-parser": "^2.0"
     },
     "require-dev": {
